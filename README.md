@@ -81,3 +81,7 @@ python main.py
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Yashwanss/2D-GravitySimulator/issues).
+
+## 📄 License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/Yashwanss/2D-GravitySimulator/blob/main/LICENSE) for more information.
